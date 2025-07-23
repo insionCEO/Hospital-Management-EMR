@@ -1,6 +1,3 @@
-If you are looking forward to install the Danphe you can follow the below labs <br>
-<a href="https://youtu.be/lKORZmKG0sA"> Lab 1 :- Installing Danphe App in desktop mode. </a> <br>
-<a href="https://youtu.be/HmAAbFiPOKw"> Lab 2 :- Configuring Danphe inside IIS. </a> <br>
 We will be adding more videos in coming time.
 <br>
 If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
@@ -8,7 +5,7 @@ If you have any issues please send us mail at shiv_koirala@yahoo.com  more than 
 </a> 
 <br> <br> <br><br>
 Scripts and tools will be listed here <br>
-<a href="https://github.com/opensource-emr/cleanupDanpheDM">Clean up script to start from scratch</a> <br>
+<a href="https://github.com/insionCEO/cleanupDanpheDM">Clean up script to start from scratch</a> <br>
  <br>
  If you wish to see demo <a href="http://202.51.74.168:302" target="_blank">
  Click here
@@ -46,7 +43,6 @@ It has around 40 modules and below are important ones listed.
 
 Demo of Danphe EMR
 ==============
-If you have any issues please sen us mail at shiv_koirala@yahoo.com 
 
 Click on below demo link and check out live application
 
@@ -63,11 +59,10 @@ Use below `credentials` for login
 
 Need help?
 ==============
-If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing.
 
 Installation & Setup
 ======================
-Getting start with **DanpheEMR** Please visit <a href="https://opensource-emr.github.io/hospital-management-emr//#setup" target="_blank">
+Getting start with **DanpheEMR** Please visit <a href="https://insionCEO.github.io/hospital-management-emr//#setup" target="_blank">
     :point_right: Page
 </a>  and read it carefully. 
 Here you have details about requirements, configuration and setup.
@@ -82,7 +77,7 @@ Here you have details about requirements, configuration and setup.
 `and more..`
 
 
-<a href="https://opensource-emr.github.io/hospital-management-emr/#setup" target="_blank">
+<a href="https://insionCEO.github.io/hospital-management-emr/#setup" target="_blank">
     :point_right: docs
 </a>
 
@@ -99,13 +94,13 @@ All sponsors are here. Thanks all sponsors for your contributions.
 ## Contributors
 Thanks all contributors. 
 
-<a href="https://github.com/opensource-emr/hospital-management-emr/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=opensource-emr/hospital-management-emr" />
+<a href="https://github.com/insionCEO/hospital-management-emr/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=insionCEO/hospital-management-emr" />
 </a> <br><br>
 
 
 License
 ==============
 
-See the [LICENSE](https://github.com/opensource-emr/hospital-management-emr/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/insionCEO/hospital-management-emr/blob/master/LICENSE) file.
 
