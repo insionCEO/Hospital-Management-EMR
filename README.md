@@ -102,5 +102,8 @@ Thanks all contributors.
 License
 ==============
 
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
+
+
 See the [LICENSE](https://github.com/insionCEO/hospital-management-emr/blob/master/LICENSE) file.
 
