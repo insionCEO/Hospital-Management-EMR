@@ -1,6 +1,6 @@
 We will be adding more videos in coming time.
 <br>
-If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
+If you have any issues please send us mail at amazingrace8190@gmail.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
  Chat with us here.
 </a> 
 <br> <br> <br><br>
